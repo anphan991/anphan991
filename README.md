@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm AP</h1>
+<h3 align="center">u can call me TezD, Please excuse me for being antisocial 🙏</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anphan&label=Profile%20views&color=0e75b6&style=flat" alt="anphan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anphan" alt="anphan" /></a> </p>
