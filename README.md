@@ -2,7 +2,7 @@
 <h3 align="center">u can call me TezD</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/zc2gWk8lFb4AAAAM/verycat-cat-eating-chips.gif" width="300" alt="Cat eating chips GIF">
+  <img src="https://media.tenor.com/pfrZqS9Hox4AAAAM/verycat-cat-eating-chips.gif" width="280" alt="Cat eating chips GIF">
 </p>
 
 <p align="left">
@@ -11,12 +11,12 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anphan" alt="anphan" />
+    <img src="https://github-profile-trophy.vercel.app/?username=anphan" alt="anphan trophies" />
   </a>
 </p>
 
-- 🌱 I’m currently learning **Python, Java, C++,...**  
-- 📫 How to reach me **an0915129080@gmail.com**
+- 🌱 I’m currently learning **Python, Java, C++, ...**  
+- 📫 How to reach me: **an0915129080@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
