@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AP</h1>
-<h3 align="center">u can call me TezD, Please excuse me for being antisocial 🙏</h3>
+<h3 align="center">u can call me TezD </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anphan&label=Profile%20views&color=0e75b6&style=flat" alt="anphan" /> </p>
 
