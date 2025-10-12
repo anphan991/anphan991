@@ -3,7 +3,7 @@
 
 <!-- === GIF Banner === -->
 <p align="center">
-  <img src="./assets/6f5c58cbdb45d470fb21054337bbe0a4.gif" width="400" alt="Pixel Adventure GIF">
+  <img src="./assets/6f5c58cbdb45d470fb21054337bbe0a4.gif" width="600" alt="Pixel Adventure GIF">
 </p>
 
 <!-- === Profile Views === -->
