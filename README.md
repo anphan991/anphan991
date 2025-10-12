@@ -23,7 +23,4 @@
   </table>
 </div>
 
-<!-- === GIF Banner === -->
-<p align="center">
-  <img src="./assets/7463d78d184c43bb878ee9b63d5e8652.gif" width="500" alt="Pixel Adventure GIF">
-</p>
+
