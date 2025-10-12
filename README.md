@@ -1,28 +1,10 @@
 <h1 align="center">Hi 👋, I'm AP</h1>
 <h3 align="center">#Please excuse me for being antisocial 🙏</h3>
 
-<!-- === About & Image Section === -->
-<div align="center">
-  <table>
-    <tr>
-      <!-- Cột bên trái: phần chữ -->
-      <td align="left" width="60%">
-        <p align="left">
-          🌱 I’m currently learning <b>Python, Java, C++, ...</b><br><br>
-          📫 How to reach me: <b>an0915129080@gmail.com</b><br><br>
-          💬 I love coding, gaming, and exploring new technologies!<br><br>
-          ☕ Usually working with a cup of coffee by my side.<br><br>
-          🎯 Focused on self-improvement and creative projects.
-        </p>
-      </td>
-
-      <!-- Cột bên phải: ảnh -->
-      <td align="right" width="40%" valign="middle">
-        <img src="https://raw.githubusercontent.com/anphan991/anphan991/main/assets/699825902192bc2161972d8cc956f6ce.jpg" width="280" alt="Profile side image">
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- === GIF Banner === -->
+<p align="center">
+  <img src="./assets/6f5c58cbdb45d470fb21054337bbe0a4.gif" width="400" alt="Pixel Adventure GIF">
+</p>
 
 <!-- === Profile Views === -->
 <p align="left">
@@ -35,6 +17,10 @@
     <img src="https://github-profile-trophy.vercel.app/?username=anphan991" alt="anphan991 trophies" />
   </a>
 </p>
+
+<!-- === About Me === -->
+- 🌱 I’m currently learning **Python, Java, C++, ...**  
+- 📫 How to reach me: **an0915129080@gmail.com**
 
 <!-- === Connect With Me === -->
 <h3 align="left">Connect with me:</h3>
@@ -64,7 +50,7 @@
   </a>
 </p>
 
-<!-- === GIF Banner === -->
+<!-- === GitHub Stats === -->
 <p align="center">
-  <img src="./assets/7463d78d184c43bb878ee9b63d5e8652.gif" width="500" alt="Pixel Adventure GIF">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anphan991&show_icons=true&locale=en&layout=compact" alt="anphan991" />
 </p>
