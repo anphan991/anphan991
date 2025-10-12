@@ -18,7 +18,7 @@
 
       <!-- Cột bên phải: ảnh -->
       <td align="right" width="40%" valign="middle">
-        <img src="./assets/699825902192bc2161972d8cc956f6ce.jpg" width="280" alt="Profile side image">
+        <img src="https://raw.githubusercontent.com/anphan991/anphan991/main/assets/699825902192bc2161972d8cc956f6ce.jpg" width="280" alt="Profile side image">
       </td>
     </tr>
   </table>
