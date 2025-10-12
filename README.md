@@ -3,7 +3,7 @@
 
 <!-- === GIF Banner === -->
 <p align="center">
-  <img src="./assets/6f5c58cbdb45d470fb21054337bbe0a4.gif" width="600" alt="Pixel Adventure GIF">
+  <img src="./assets/6f5c58cbdb45d470fb21054337bbe0a4.gif" width="800" alt="Pixel Adventure GIF">
 </p>
 
 <!-- === Profile Views === -->
@@ -33,22 +33,7 @@
   </a>
 </p>
 
-<!-- === Languages and Tools === -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-</p>
+
 
 <!-- === GitHub Stats === -->
 <p align="center">
