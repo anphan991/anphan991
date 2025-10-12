@@ -16,9 +16,9 @@
         </p>
       </td>
 
-      <!-- Cột bên phải: ảnh -->
-      <td align="right" width="40%">
-        <img src="./assets/download.png" width="280" alt="Profile side image">
+      <!-- Cột bên phải: ảnh mới -->
+      <td align="right" width="40%" valign="middle">
+        <img src="./assets/699825902192bc2161972d8cc956f6ce.png" width="280" alt="Profile side image">
       </td>
     </tr>
   </table>
