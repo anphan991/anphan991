@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm AP</h1>
 <h3 align="center">#Please excuse me for being antisocial 🙏</h3>
 
-<!-- === GIF Banner === -->
-<p align="center">
-  <img src="./assets/7463d78d184c43bb878ee9b63d5e8652.gif" width="500" alt="Pixel Adventure GIF">
-</p>
 
 <!-- === Profile Views === -->
 <p align="left">
@@ -41,3 +37,8 @@
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" wid
+
+<!-- === GIF Banner === -->
+<p align="center">
+  <img src="./assets/7463d78d184c43bb878ee9b63d5e8652.gif" width="500" alt="Pixel Adventure GIF">
+</p>
