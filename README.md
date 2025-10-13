@@ -3,7 +3,7 @@
 
 <!-- === GIF Banner === -->
 <p align="center">
-  <img src="./assets/6f5c58cbdb45d470fb21054337bbe0a4.gif" width="1000" alt="Pixel Adventure GIF">
+  <img src="./assets/39ad911df42a77a9ecdb0245b18a4104.gif" width="1000" alt="Pixel Adventure GIF">
 </p>
 
 <!-- === Profile Views === -->
@@ -19,7 +19,7 @@
 </p>
 
 <!-- === About Me === -->
-- 🌱 I’m currently learning **Python, Java, C++, ...**  
+- 🌱 I’m currently learning **Python, Java, ...**  
 - 📫 How to reach me: **an0915129080@gmail.com**
 
 <!-- === Connect With Me === -->
