@@ -6,9 +6,6 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=anphan991&label=Profile%20views&color=0e75b6&style=flat" alt="anphan991" />
-</p>
-<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=anphan991" alt="anphan991 trophies" />
   </a>
@@ -61,9 +58,9 @@
 
 <div align="center">
   <p style="font-size: 0.9rem;">
-    “Coding isn't just a skill, it's a craft — and I'm here to shape it every day.”
+    “no text here”
   </p>
   <img src="https://komarev.com/ghpvc/?username=anphan991&label=Profile%20visits&color=blueviolet&style=for-the-badge" alt="Profile visits" />
-  <h3>Would Love to Connect! 😊</h3>
+  <h3>Would Love to Connect! </h3>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
