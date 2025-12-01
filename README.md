@@ -29,17 +29,9 @@
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50" height="50" alt="C++" />
-  &nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-014389df-2d7f-449e-b8d9-29170e9a5951.gif" width="50" height="50" alt="Python" />
-  &nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b462120a-5136-44b4-ae6c-4826d9c6d482.gif" width="50" height="50" alt="Java" />
-  &nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212281765-b389f5f0-575d-4f16-9528-9d82138a3d46.gif" width="50" height="50" alt="GitHub" />
-  &nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212281761-30d06152-d1da-4581-9878-07e32f790c58.gif" width="50" height="50" alt="Git" />
-  &nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212281772-29774644-7548-43f1-ba4e-7fb7e6c433c2.gif" width="50" height="50" alt="Linux" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,java,github,git,linux" alt="My Skills" />
+  </a>
 </p>
 
 <br>
