@@ -36,7 +36,7 @@
 ---
 
 <div align="center">
-  <img alt="Snake Dark" src="https://raw.githubusercontent.com/anphan991/anphan991/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake Dark Theme" src="https://raw.githubusercontent.com/anphan991/anphan991/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
