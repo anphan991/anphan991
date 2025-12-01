@@ -76,15 +76,16 @@
   </tr>
 </table>
 
-
 ---
 
+<!-- === Activity Graph === -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anphan991&theme=github-dark-dimmed" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anphan991&theme=github-dark-dimmed" alt="Activity graph" />
 </div>
 
 ---
 
+<!-- === GitHub Snake === -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg?palette=github-dark" />
   <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
@@ -93,19 +94,20 @@
 
 <details>
   <summary>😎 See my contributions in 3D</summary>
-  <img src="./profile-3d-contrib/profile-green-animate.svg" />
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph (green animated)" />
 </details>
 
 ---
 
+<!-- === Footer Quote & Visits === -->
 <div align="center">
   <p style="font-size: 0.9rem;">
     “Coding isn't just a skill, it's a craft — and I'm here to shape it every day.”
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=anphan991&label=Profile%20visits&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=anphan991&label=Profile%20visits&color=blueviolet&style=for-the-badge" alt="Profile visits" />
   
   <h3>Would Love to Connect! 😊</h3>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
