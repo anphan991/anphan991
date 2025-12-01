@@ -14,7 +14,8 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Python, Java, ...** - 📫 How to reach me: **an0915129080@gmail.com**
+- 🌱 I’m currently learning **Python, Java, ...**
+- 📫 How to reach me: **an0915129080@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,21 +29,20 @@
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
-    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60" height="60" alt="C++" />
-    &nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/74038190/212257472-014389df-2d7f-449e-b8d9-29170e9a5951.gif" width="60" height="60" alt="Python" />
-    &nbsp;&nbsp;&nbsp;
-    
-    <img src="https://user-images.githubusercontent.com/74038190/212281775-b462120a-5136-44b4-ae6c-4826d9c6d482.gif" width="60" height="60" alt="Java" />
-    &nbsp;&nbsp;&nbsp;
-    
-    <img src="https://user-images.githubusercontent.com/74038190/212281765-b389f5f0-575d-4f16-9528-9d82138a3d46.gif" width="60" height="60" alt="GitHub" />
-    &nbsp;&nbsp;&nbsp;
-    
-    <img src="https://user-images.githubusercontent.com/74038190/212281761-30d06152-d1da-4581-9878-07e32f790c58.gif" width="60" height="60" alt="Git" />
-    &nbsp;&nbsp;&nbsp;
-    
-    <img src="https://user-images.githubusercontent.com/74038190/212281772-29774644-7548-43f1-ba4e-7fb7e6c433c2.gif" width="60" height="60" alt="Linux" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50" height="50" alt="C++" />
+  &nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-014389df-2d7f-449e-b8d9-29170e9a5951.gif" width="50" height="50" alt="Python" />
+  &nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b462120a-5136-44b4-ae6c-4826d9c6d482.gif" width="50" height="50" alt="Java" />
+  &nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212281765-b389f5f0-575d-4f16-9528-9d82138a3d46.gif" width="50" height="50" alt="GitHub" />
+  &nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212281761-30d06152-d1da-4581-9878-07e32f790c58.gif" width="50" height="50" alt="Git" />
+  &nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212281772-29774644-7548-43f1-ba4e-7fb7e6c433c2.gif" width="50" height="50" alt="Linux" />
 </p>
+
+<br>
 
 ---
 
@@ -71,10 +71,7 @@
   <p style="font-size: 0.9rem;">
     “Coding isn't just a skill, it's a craft — and I'm here to shape it every day.”
   </p>
-
   <img src="https://komarev.com/ghpvc/?username=anphan991&label=Profile%20visits&color=blueviolet&style=for-the-badge" alt="Profile visits" />
-  
   <h3>Would Love to Connect! 😊</h3>
-
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
