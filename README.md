@@ -14,7 +14,8 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Python, Java, ...** - 📫 How to reach me: **an0915129080@gmail.com**
+- 🌱 I’m currently learning **Python, Java, ...**
+- 📫 How to reach me: **an0915129080@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,39 +29,36 @@
 
 <h3 align="center">Languages and Tools</h3>
 
-<table align="center">
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="65" height="65" />
-      <br/>C++
-    </td>
-
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=python" alt="Python" width="65" height="65" />
-      <br/>Python
-    </td>
-
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=java" alt="Java" width="65" height="65" />
-      <br/>Java
-    </td>
-
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="65" height="65" />
-      <br/>GitHub
-    </td>
-
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" height="65" />
-      <br/>Git
-    </td>
-
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="65" height="65" />
-      <br/>Linux
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+        <br>C++
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+        <br>Python
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+        <br>Java
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+        <br>GitHub
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        <br>Git
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+        <br>Linux
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -83,10 +81,7 @@
   <p style="font-size: 0.9rem;">
     “Coding isn't just a skill, it's a craft — and I'm here to shape it every day.”
   </p>
-
   <img src="https://komarev.com/ghpvc/?username=anphan991&label=Profile%20visits&color=blueviolet&style=for-the-badge" alt="Profile visits" />
-  
   <h3>Would Love to Connect! 😊</h3>
-
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
