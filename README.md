@@ -1,28 +1,21 @@
 <h1 align="center">Hi 👋, I'm AP</h1>
 <h3 align="center">#Please excuse me for being antisocial 🙏</h3>
 
-<!-- === GIF Banner === -->
 <p align="center">
   <img src="./assets/39ad911df42a77a9ecdb0245b18a4104.gif" width="1000" alt="Pixel Adventure GIF">
 </p>
 
-<!-- === Profile Views === -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=anphan991&label=Profile%20views&color=0e75b6&style=flat" alt="anphan991" />
 </p>
-
-<!-- === GitHub Trophy === -->
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=anphan991" alt="anphan991 trophies" />
   </a>
 </p>
 
-<!-- === About Me === -->
-- 🌱 I’m currently learning **Python, Java, ...**  
-- 📫 How to reach me: **an0915129080@gmail.com**
+- 🌱 I’m currently learning **Python, Java, ...** - 📫 How to reach me: **an0915129080@gmail.com**
 
-<!-- === Connect With Me === -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/an-phan-kh%C3%A1nh-70b325386/" target="_blank">
@@ -33,64 +26,39 @@
   </a>
 </p>
 
-<!-- === Languages and Tools === -->
-<h3>Languages and Tools</h3>
-
-<table style="border-collapse: collapse;">
-  <tr>
-    <!-- C++ -->
-    <td align="center" width="96" style="border: 1px solid #ffffff; padding: 10px;">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-      <br>C++
-    </td>
-
-    <!-- Python -->
-    <td align="center" width="96" style="border: 1px solid #ffffff; padding: 10px;">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      <br>Python
-    </td>
-
-    <!-- Java (gif trong assets) -->
-    <td align="center" width="96" style="border: 1px solid #ffffff; padding: 10px;">
-      <img src="./assets/icons8-java.gif" alt="Java" width="65" height="65" />
-      <br>Java
-    </td>
-
-    <!-- GitHub (icon tĩnh) -->
-    <td align="center" width="96" style="border: 1px solid #ffffff; padding: 10px;">
-      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="65" height="65" />
-      <br>GitHub
-    </td>
-
-    <!-- Git -->
-    <td align="center" width="96" style="border: 1px solid #ffffff; padding: 10px;">
-      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" height="65" />
-      <br>Git
-    </td>
-
-    <!-- Linux (gif trong assets) -->
-    <td align="center" width="96" style="border: 1px solid #ffffff; padding: 10px;">
-      <img src="./assets/icons8-linux.gif" alt="Linux" width="65" height="65" />
-      <br>Linux
-    </td>
-  </tr>
-</table>
+<h3 align="left">Languages and Tools</h3>
+<p align="left">
+    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60" height="60" alt="C++" />
+    &nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/74038190/212257472-014389df-2d7f-449e-b8d9-29170e9a5951.gif" width="60" height="60" alt="Python" />
+    &nbsp;&nbsp;&nbsp;
+    
+    <img src="https://user-images.githubusercontent.com/74038190/212281775-b462120a-5136-44b4-ae6c-4826d9c6d482.gif" width="60" height="60" alt="Java" />
+    &nbsp;&nbsp;&nbsp;
+    
+    <img src="https://user-images.githubusercontent.com/74038190/212281765-b389f5f0-575d-4f16-9528-9d82138a3d46.gif" width="60" height="60" alt="GitHub" />
+    &nbsp;&nbsp;&nbsp;
+    
+    <img src="https://user-images.githubusercontent.com/74038190/212281761-30d06152-d1da-4581-9878-07e32f790c58.gif" width="60" height="60" alt="Git" />
+    &nbsp;&nbsp;&nbsp;
+    
+    <img src="https://user-images.githubusercontent.com/74038190/212281772-29774644-7548-43f1-ba4e-7fb7e6c433c2.gif" width="60" height="60" alt="Linux" />
+</p>
 
 ---
 
-<!-- === Activity Graph === -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anphan991&theme=github-dark-dimmed" alt="Activity graph" />
 </div>
 
 ---
 
-<!-- === GitHub Snake === -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg?palette=github-dark" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="GitHub contribution Snake game" src="dist/github-snake.svg" />
-</picture>
+<div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anphan991/anphan991/output/github-contribution-grid-snake.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anphan991/anphan991/output/github-contribution-grid-snake.svg" />
+      <img alt="GitHub contribution Snake game" src="https://raw.githubusercontent.com/anphan991/anphan991/output/github-contribution-grid-snake.svg" />
+    </picture>
+</div>
 
 <details>
   <summary>😎 See my contributions in 3D</summary>
@@ -99,10 +67,9 @@
 
 ---
 
-<!-- === Footer Quote & Visits === -->
 <div align="center">
   <p style="font-size: 0.9rem;">
-    “No text here”
+    “Coding isn't just a skill, it's a craft — and I'm here to shape it every day.”
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=anphan991&label=Profile%20visits&color=blueviolet&style=for-the-badge" alt="Profile visits" />
