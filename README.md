@@ -34,101 +34,38 @@
 </p>
 
 <!-- === Languages and Tools === -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-<!-- === NEW SECTION (ADD BELOW) === -->
+<h3 align="center">Languages and Tools</h3>
 
 <div align="center">
-  <h2>🔥 Core Technologies</h2>
+  <h4>🔥 Core Technologies</h4>
 </div>
 
 <table align="center">
   <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
-      <br>Python
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br/>Python
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" width="65" height="65" />
-      <br>C
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+      <br/>C++
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <h2>🌐 Web Development</h2>
+  <h4>🗄️ Tools</h4>
 </div>
 
 <table align="center">
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" />
-      <br>HTML5
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      <br/>GitHub
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" />
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" />
-      <br>Bootstrap
-    </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
-      <br>JavaScript
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <h2>🗄️ Database & Tools</h2>
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="65" height="65" />
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="65" height="65" />
-      <br>Kubernetes
+    <td align="center" width="110">
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="65" height="65" />
+      <br/>Git
     </td>
   </tr>
 </table>
