@@ -1,0 +1,37 @@
+name: Generate Snake
+
+# Action sẽ chạy khi nào?
+on:
+  # Chạy tự động vào nửa đêm mỗi ngày
+  schedule:
+    - cron: "0 0 * * *"
+  # Cho phép bạn bấm nút chạy thủ công bất cứ lúc nào
+  workflow_dispatch:
+
+# Quyền hạn cần thiết để ghi file vào repo
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      # Bước 1: Tạo ảnh con rắn từ dữ liệu code của user anphan991
+      - uses: Platane/snk@v3
+        with:
+          # Tên user GitHub của bạn
+          github_user_name: anphan991
+          # Danh sách các file ảnh sẽ được tạo ra (lưu vào thư mục dist)
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Bước 2: Đẩy (Push) các file ảnh vừa tạo vào nhánh 'output'
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
