@@ -36,23 +36,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anphan991&theme=github-dark-dimmed" alt="Activity graph" />
+  <img alt="Snake Dark" src="https://raw.githubusercontent.com/anphan991/anphan991/output/github-contribution-grid-snake.svg" />
 </div>
-
----
-
-<div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anphan991/anphan991/output/github-contribution-grid-snake.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anphan991/anphan991/output/github-contribution-grid-snake.svg" />
-      <img alt="GitHub contribution Snake game" src="https://raw.githubusercontent.com/anphan991/anphan991/output/github-contribution-grid-snake.svg" />
-    </picture>
-</div>
-
-<details>
-  <summary>😎 See my contributions in 3D</summary>
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph (green animated)" />
-</details>
 
 ---
 
