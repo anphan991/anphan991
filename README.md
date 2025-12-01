@@ -50,3 +50,118 @@
   </a>
 </p>
 
+---
+
+<!-- === NEW SECTION (ADD BELOW) === -->
+
+<div align="center">
+  <h2>🔥 Core Technologies</h2>
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" width="65" height="65" />
+      <br>C
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <h2>🌐 Web Development</h2>
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" />
+      <br>Bootstrap
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
+      <br>JavaScript
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <h2>🗄️ Database & Tools</h2>
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="65" height="65" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="65" height="65" />
+      <br>Kubernetes
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anphan991&theme=github-dark-dimmed" />
+</div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg?palette=github-dark" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="GitHub contribution Snake game" src="dist/github-snake.svg" />
+</picture>
+
+<details>
+  <summary>😎 See my contributions in 3D</summary>
+  <img src="./profile-3d-contrib/profile-green-animate.svg" />
+</details>
+
+---
+
+<div align="center">
+  <p style="font-size: 0.9rem;">
+    “Coding isn't just a skill, it's a craft — and I'm here to shape it every day.”
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=anphan991&label=Profile%20visits&color=blueviolet&style=for-the-badge" />
+  
+  <h3>Would Love to Connect! 😊</h3>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div>
