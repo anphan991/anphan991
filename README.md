@@ -45,9 +45,6 @@
 ---
 
 <div align="center">
-  <p style="font-size: 0.9rem;">
-    “#Please excuse me for being antisocial 🙏”
-  </p>
-  <h3>Would Love to Connect! </h3>
+  <h3 style="margin-bottom: 0;">#Please excuse me for being antisocial 🙏</h3>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
