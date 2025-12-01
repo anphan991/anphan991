@@ -36,39 +36,46 @@
 <!-- === Languages and Tools === -->
 <h3 align="center">Languages and Tools</h3>
 
-<div align="center">
-  <h4>🔥 Core Technologies</h4>
-</div>
-
 <table align="center">
   <tr>
-    <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      <br/>Python
-    </td>
+    <!-- C++ -->
     <td align="center" width="110">
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
       <br/>C++
     </td>
-  </tr>
-</table>
 
-<div align="center">
-  <h4>🗄️ Tools</h4>
-</div>
+    <!-- Python -->
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br/>Python
+    </td>
 
-<table align="center">
-  <tr>
+    <!-- Java (gif trong assets) -->
+    <td align="center" width="110">
+      <img src="./assets/icons8-java.gif" alt="Java" width="65" height="65" />
+      <br/>Java
+    </td>
+
+    <!-- GitHub -->
     <td align="center" width="110">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
       <br/>GitHub
     </td>
+
+    <!-- Git -->
     <td align="center" width="110">
       <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="65" height="65" />
       <br/>Git
     </td>
+
+    <!-- Linux (gif trong assets) -->
+    <td align="center" width="110">
+      <img src="./assets/icons8-linux.gif" alt="Linux" width="65" height="65" />
+      <br/>Linux
+    </td>
   </tr>
 </table>
+
 
 ---
 
