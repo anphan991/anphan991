@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm AP</h1>
-<h3 align="center">#Please excuse me for being antisocial 🙏</h3>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=anphan991&label=Profile%20visits&color=blueviolet&style=for-the-badge" alt="Profile visits" />
+</p>
 
 <p align="center">
   <img src="./assets/39ad911df42a77a9ecdb0245b18a4104.gif" width="1000" alt="Pixel Adventure GIF">
@@ -43,9 +46,8 @@
 
 <div align="center">
   <p style="font-size: 0.9rem;">
-    “no text here”
+    “#Please excuse me for being antisocial 🙏”
   </p>
-  <img src="https://komarev.com/ghpvc/?username=anphan991&label=Profile%20visits&color=blueviolet&style=for-the-badge" alt="Profile visits" />
   <h3>Would Love to Connect! </h3>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
