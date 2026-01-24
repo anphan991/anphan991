@@ -14,7 +14,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Python, Java, ...**
+- 🌱 I’m currently learning **IoT, OS, Database System, ...**
 - 📫 How to reach me: **an0915129080@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
