@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AP</h1>
+<h1 align="center">Hi 👋</h1>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=anphan991&label=Profile%20visits&color=blueviolet&style=for-the-badge" alt="Profile visits" />
@@ -25,12 +25,15 @@
   <a href="https://discord.com/users/13159409687883" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
+  <a href="https://x.com/wakeupTeddyQQ" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,java,github,git,linux" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,java,github,git,linux,ts,kali,supabase" alt="My Skills" />
   </a>
 </p>
 
