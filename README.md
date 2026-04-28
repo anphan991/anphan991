@@ -8,14 +8,14 @@
   <img src="./assets/39ad911df42a77a9ecdb0245b18a4104.gif" width="1000" alt="Pixel Adventure GIF">
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anphan991&theme=dracula" alt="anphan991 trophies" />
-  </a>
-</p>
-
 - 🌱 I’m currently learning **...**
 - 📫 How to reach me: **an0915129080@gmail.com**
+  
+<p align="left">
+  <a href="https://www.kanp9.io.vn/" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-I%20write%20stuff%20here-ff69b4?style=for-the-badge&logo=ghost" />
+  </a>
+</p>
 
 <h3 align="left">Connect with me</h3>
 
@@ -23,12 +23,8 @@
   <a href="https://www.linkedin.com/in/an-phan-kh%C3%A1nh-70b325386/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>&nbsp;&nbsp;
-
-  <a href="https://discord.com/users/13159409687883" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
-  </a>&nbsp;&nbsp;
-
-  <a href="https://x.com/wakeupTeddyQQ" target="_blank">
+  
+  <a href="https://x.com/TezD991" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
   </a>
 </p>
