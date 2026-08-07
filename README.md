@@ -13,6 +13,7 @@
         <img src="./assets/giphy.gif" height="140" alt="Pixel Adventure GIF">
         <img src="./assets/gif2.gif" height="140" alt="GIF 2">
         <img src="./assets/gif1.gif" height="140" alt="GIF 3">
+        <img src="./assets/polish-cow-transparent.gif" height="140" alt="GIF 3">
         <br><br>
         <img alt="Snake Dark Theme" src="https://raw.githubusercontent.com/anphan991/anphan991/output/github-contribution-grid-snake-dark.svg" width="100%" />
         <br><br>
