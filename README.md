@@ -19,8 +19,7 @@
           </a>
         </p>
         <br><br>
-        <!-- Hàng 3 GIF mới (Tăng height lên 150 và thêm khoảng cách) -->
-<img src="./assets/bongo-cat-typing.gif?v=1" width="160" height="150"><img src="./assets/smash.gif?v=1" width="160" height="150"><img src="./assets/coffee-bongo-coffee.gif?v=1" width="160" height="150">
+<img src="./assets/bongo-cat-typing.gif?v=1" width="33%" height="130"><img src="./assets/smash.gif?v=1" width="33%" height="130"><img src="./assets/coffee-bongo-coffee.gif?v=1" width="33%" height="130">
       </td>
       </td>
       <td width="40%" align="left" valign="middle">
