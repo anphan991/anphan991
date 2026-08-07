@@ -13,7 +13,7 @@
     <tr>
       <td width="60%" align="left" valign="top">
         <br>
-        <img src="./assets/gif1.gif?v=2" width="33%" height="130" alt="GIF 1"><img src="./assets/giphy.gif?v=2" width="33%" height="130" alt="GIF 2"><img src="./assets/gif2.gif?v=2" width="33%" height="130" alt="GIF 3">
+        <img src="./assets/gify1.gif?v=2" width="33%" height="130" alt="GIF 1"><img src="./assets/Gify2.gif?v=2" width="33%" height="130" alt="GIF 2"><img src="./assets/Gify3.gif?v=2" width="33%" height="130" alt="GIF 3">
         <br><br>
         <br><br>
         <img alt="Snake Dark Theme" src="https://raw.githubusercontent.com/anphan991/anphan991/output/github-contribution-grid-snake-dark.svg" width="100%" />
