@@ -9,11 +9,8 @@
   <table width="100%">
     <tr>
       <td width="60%" align="left" valign="middle">
-        <!-- Đồng bộ cả 3 ảnh cùng chung 1 chiều cao (height) -->
-        <img src="./assets/giphy.gif" height="140" alt="Pixel Adventure GIF">
-        <img src="./assets/gif2.gif" height="140" alt="GIF 2">
-        <img src="./assets/gif1.gif" height="140" alt="GIF 3">
-        <img src="./assets/polish-cow-transparent.gif" height="140" alt="GIF 3">
+        <!-- Đã giảm height xuống 110 và viết dính liền 3 thẻ img để ép chúng lên 1 hàng -->
+        <img src="./assets/giphy.gif" height="110" alt="GIF 1"><img src="./assets/gif2.gif" height="110" alt="GIF 2"><img src="./assets/gif1.gif" height="110" alt="GIF 3">
         <br><br>
         <img alt="Snake Dark Theme" src="https://raw.githubusercontent.com/anphan991/anphan991/output/github-contribution-grid-snake-dark.svg" width="100%" />
         <br><br>
