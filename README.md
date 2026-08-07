@@ -11,7 +11,8 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td width="60%" align="left" valign="middle">
+      <td width="60%" align="left" valign="top">
+        <br>
         <img src="./assets/gif1.gif?v=2" width="33%" height="130" alt="GIF 1"><img src="./assets/minion-minion-fade-in-slowly-on-white-background.gif" width="33%" height="130" alt="GIF 2"><img src="./assets/gif2.gif" width="33%" height="130" alt="GIF 3">
         <br><br>
         <img alt="Snake Dark Theme" src="https://raw.githubusercontent.com/anphan991/anphan991/output/github-contribution-grid-snake-dark.svg" width="100%" />
