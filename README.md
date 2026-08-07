@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00ccff,0033cc&height=100&section=header" width="100%" />
+</div>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&pause=200&color=BD93F9&center=true&vCenter=true&width=800&lines=Hello+World!;Welcome+to+my+Github+Page" alt="Typing SVG" />
@@ -8,7 +12,7 @@
   <table width="100%">
     <tr>
       <td width="60%" align="left" valign="middle">
-        <img src="./assets/gif1.gif?v=2" height="110" alt="GIF 1"><img src="./assets/minion-minion-fade-in-slowly-on-white-background.gif" height="110" alt="GIF 2"><img src="./assets/gif2.gif" height="110" alt="GIF 3">
+        <img src="./assets/gif1.gif?v=2" width="33%" height="130" alt="GIF 1"><img src="./assets/minion-minion-fade-in-slowly-on-white-background.gif" width="33%" height="130" alt="GIF 2"><img src="./assets/gif2.gif" width="33%" height="130" alt="GIF 3">
         <br><br>
         <img alt="Snake Dark Theme" src="https://raw.githubusercontent.com/anphan991/anphan991/output/github-contribution-grid-snake-dark.svg" width="100%" />
         <br><br>
@@ -22,7 +26,7 @@
 <img src="./assets/bongo-cat-typing.gif?v=1" width="33%" height="130"><img src="./assets/smash.gif?v=1" width="33%" height="130"><img src="./assets/coffee-bongo-coffee.gif?v=1" width="33%" height="130">
       </td>
       </td>
-      <td width="40%" align="left" valign="middle">
+      <td width="40%" align="left" valign="Top">
         <h1 style="margin-bottom: 0;">Hi, I'm Ka👋</h1>
         <br>
         <p>
