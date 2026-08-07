@@ -59,6 +59,16 @@
 
 <br>
 
+---
+
+<div align="center">
+  <img alt="Snake Dark Theme" src="https://raw.githubusercontent.com/anphan991/anphan991/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
+---
+
+<br>
+
 <div align="center">
   <h3 style="margin-bottom: 0;">#Please excuse me for being antisocial 🙏</h3>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
