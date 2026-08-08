@@ -18,7 +18,7 @@
         <br><br>
         <img alt="Snake Dark Theme" src="https://raw.githubusercontent.com/anphan991/anphan991/output/github-contribution-grid-snake-dark.svg" width="100%" />
         <br><br>
-        <h3 align="left">💻 Languages and Tools</h3>
+        <h3 align="left"></h3>
         <p align="left">
           <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=cpp,python,java,github,git,linux,ts,kali,supabase" alt="My Skills" />
@@ -54,7 +54,7 @@
         </p>
         <br><br>
         <div align="center">
-          <img src="./assets/gif10.gif?v=1" width="500" alt="GIF">
+          <img src="./assets/gif10.gif" width="100%" alt="GIF">
         </div>
       </td>
     </tr>
