@@ -52,6 +52,10 @@
             <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
           </a>
         </p>
+        <br><br>
+        <div align="center">
+          <img src="./assets/gif10.gif?v=1" width="500" alt="GIF">
+        </div>
       </td>
     </tr>
   </table>
