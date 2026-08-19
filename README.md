@@ -25,7 +25,7 @@
           </a>
         </p>
         <br><br>
-<img src="./assets/cat1.gif?v=1" width="33%" height="130"><img src="./assets/Gify3.gif?v=1" width="33%" height="130"><img src="./assets/cat3.gif?v=1" width="33%" height="130">
+<img src="./assets/cat1.gif?v=1" width="33%" height="130"><img src="./assets/Gify3.gif?v=1" width="33%" height="130"><img src="./assets/white-dog-dog.gif?v=1" width="33%" height="130">
       </td>
       </td>
       <td width="40%" align="left" valign="Top">
