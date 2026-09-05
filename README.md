@@ -34,7 +34,7 @@
         <p>
           <img src="https://komarev.com/ghpvc/?username=anphan991&label=Profile%20visits&color=blueviolet&style=for-the-badge" alt="Profile visits" />
           <br><br>
-          <a href="https://www.kanp9.io.vn/" target="_blank">
+          <a href="https://v3.kanp9.io.vn" target="_blank">
             <img src="https://img.shields.io/badge/Blog-I%20write%20stuff%20here-ff69b4?style=for-the-badge&logo=ghost" />
           </a>
         </p>
