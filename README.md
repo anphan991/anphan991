@@ -13,7 +13,7 @@
     <tr>
       <td width="60%" align="left" valign="top">
         <br>
-        <img src="./assets/gify4.gif?v=2" width="33%" height="130" alt="GIF 1"><img src="./assets/Gify2.gif?v=2" width="33%" height="130" alt="GIF 2"><img src="./assets/gify1.gif?v=2" width="33%" height="130" alt="GIF 3">
+        <img src="https://raw.githubusercontent.com/anphan991/anphan991/main/assets/gify4.gif?v=2" width="33%" height="130" alt="GIF 1"><img src="https://raw.githubusercontent.com/anphan991/anphan991/main/assets/Gify2.gif?v=2" width="33%" height="130" alt="GIF 2"><img src="https://raw.githubusercontent.com/anphan991/anphan991/main/assets/gify1.gif?v=2" width="33%" height="130" alt="GIF 3">
         <br><br>
         <br><br>
         <img alt="Snake Dark Theme" src="https://raw.githubusercontent.com/anphan991/anphan991/output/github-contribution-grid-snake-dark.svg" width="100%" />
@@ -24,20 +24,26 @@
             <img src="https://skillicons.dev/icons?i=cpp,python,java,github,git,linux,ts,kali,supabase" alt="My Skills" />
           </a>
         </p>
-        <br><br>
-<img src="./assets/cat1.gif?v=1" width="33%" height="130"><img src="./assets/Gify3.gif?v=1" width="33%" height="130"><img src="./assets/white-dog-dog.gif?v=1" width="33%" height="130">
-      </td>
+        <br>
+        <p align="center">
+          <img src="https://streak-stats.demolab.com?user=anphan991&theme=tokyonight&hide_border=true&border_radius=10" width="54%" alt="Streak" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anphan991&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="44%" alt="Top Langs" />
+        </p>
       </td>
       <td width="40%" align="left" valign="Top">
         <h1 style="margin-bottom: 0;">Hi, I'm Ka👋</h1>
         <br>
         <p>
           <img src="https://komarev.com/ghpvc/?username=anphan991&label=Profile%20visits&color=blueviolet&style=for-the-badge" alt="Profile visits" />
-          <br><br>
-          <a href="https://kanp9.io.vn" target="_blank">
-            <img src="https://img.shields.io/badge/Blog-I%20write%20stuff%20here-ff69b4?style=for-the-badge&logo=ghost" />
-          </a>
         </p>
+        <blockquote>
+          <a href="https://kanp9.io.vn" target="_blank">
+            <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&duration=2500&pause=800&color=FF69B4&vCenter=true&width=380&height=28&lines=%3E+Where+I+Yap+%26+Pretend+To+Know+Things+%E2%AC%87;%24+yappin'+all+day+long;%3E+enter+kanp9.io.vn+(legit+no+virus+%F0%9F%90%A7)" alt="kanp9.io.vn" />
+          </a><br>
+          <a href="https://kanp9.io.vn" target="_blank">
+            <img src="https://img.shields.io/badge/➤_ENTER_SITE_HERE-kanp9.io.vn-ff69b4?style=for-the-badge&logo=gnometerminal&logoColor=white&labelColor=1a1b26" alt="Blog" />
+          </a>
+        </blockquote>
         <h3>About Me</h3>
         <ul>
           <li>🌱 I’m currently learning <b>...</b></li>
@@ -54,7 +60,7 @@
         </p>
         <br><br>
         <div align="center">
-          <img src="./assets/gif10.gif" width="100%" alt="GIF">
+          <img src="https://raw.githubusercontent.com/anphan991/anphan991/main/assets/gif10.gif" width="100%" alt="GIF">
         </div>
       </td>
     </tr>
@@ -66,7 +72,7 @@
 ---
 
 <div align="center">
-  <img alt="Snake Dark Theme" src="https://raw.githubusercontent.com/anphan991/anphan991/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img alt="Pac-Man Dark Theme" src="https://raw.githubusercontent.com/anphan991/anphan991/output/pacman-contribution-graph-dark.svg" width="100%" />
 </div>
 
 ---
@@ -77,3 +83,5 @@
   <h3 style="margin-bottom: 0;">#Please excuse me for being antisocial 🙏</h3>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
+
+
