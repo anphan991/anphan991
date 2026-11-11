@@ -27,7 +27,6 @@
         <br>
         <p align="center">
           <img src="https://streak-stats.demolab.com?user=anphan991&theme=tokyonight&hide_border=true&border_radius=10" width="54%" alt="Streak" />
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anphan991&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="44%" alt="Top Langs" />
         </p>
       </td>
       <td width="40%" align="left" valign="Top">
