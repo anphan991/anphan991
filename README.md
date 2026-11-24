@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&pause=200&color=BD93F9&center=true&vCenter=true&width=800&lines=Hello+World!;Welcome+to+my+Github+Page" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&pause=200&color=BD93F9&center=true&vCenter=true&width=800&lines=Hello+World!;Welcome+to+my+Github" alt="Typing SVG" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@
         </p>
       </td>
       <td width="40%" align="left" valign="Top">
-        <h1 style="margin-bottom: 0;">Hi, I'm Ka👋</h1>
+        <h1 style="margin-bottom: 0;">Hi👋</h1>
         <br>
         <p>
           <img src="https://komarev.com/ghpvc/?username=anphan991&label=Profile%20visits&color=blueviolet&style=for-the-badge" alt="Profile visits" />
@@ -46,7 +46,7 @@
         <h3>About Me</h3>
         <ul>
           <li>🌱 I’m currently learning <b>...</b></li>
-          <li>📫 How to reach me: <b>an0915129080@gmail.com</b></li>
+          <li>📫 How to reach me: <b>pakk99123@gmail.com</b></li>
         </ul>
         <h3>Connect with me</h3>
         <p>
